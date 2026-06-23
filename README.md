@@ -369,6 +369,7 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AI Dungeon](http://play.aidungeon.io) | Play and Create AI-Generated Adventures With Infinite Possibilities. | . | :grey_question: |
+| [Auferet](https://auferet.com) | AI game master for solo text adventures and tabletop-style RPGs, with persistent memory and your own uploaded lore. | . | :grey_question: |
 | [Assetsai](http://www.assetsai.art) | AI-Powered, Unique & Curated Assets for Your Games. | . | :grey_question: |
 | [Chess AI](http://betafish.gavinong.com) | Betafish.Js - Chess AI. | . | :grey_question: |
 | [IRMO](http://www.irmoai.com) | Made for Creation. The Very Best in AI Apps. | Your Source for Mobile Entertainment & AI Art Creation. | :white_check_mark: |
