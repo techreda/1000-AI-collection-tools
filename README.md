@@ -422,6 +422,7 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [JD Generator](http://hirequotient.com) | Meet the Team - Hirequotient. | HireQuotient&apos;s Skill Assessment Platform helps you hire the top 10% of the talent pool in half the time. | :grey_question: |
 | [LazyApply](http://lazyapply.com) | Automate Your Job Application Process. | We automatically apply to all the jobs on platforms like Linkedin, Indeed and Ziprecruiter. | :x: |
 | [Resume Worded](http://resumeworded.com) | Improve Your Resume and Linkedin Profile. | Designed by top recruiters, our AI-powered platform instantly gives you tailored feedback on your resume and LinkedIn profile. Land 5x more interviews, opportunities and job offers. | :white_check_mark: |
+| [ResumeAI](https://withresumeai.com/) | AI resume builder and free ATS checker. | Build ATS-friendly resumes and check against real employer portals; free State of ATS 2026 research dataset. | :white_check_mark: |
 | [rankode](http://www.rankode.ai) | AI for Human Resources - Rankode. | Recruiters, everything you need to know about a candidate's programming skills is in their GitHub. Evaluate them automatically with Rankode to avoid expensive hiring mistakes and superboost your retention. | :grey_question: |
 | [springworks](http://www.springworks.in) | Hr Software Solutions for Growing Businesses. | Springworks builds human resources software solutions to solve challenges in recruitment, background verification & employee engagement with Blockchain and AI. | :white_check_mark: |
 
